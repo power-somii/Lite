@@ -1,2 +1,3 @@
-import Junaid
+import Lite
+Lite.Lite()
 
