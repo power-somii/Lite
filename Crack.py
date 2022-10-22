@@ -1,2 +1,2 @@
-
 import Subscription
+Subscription ()
