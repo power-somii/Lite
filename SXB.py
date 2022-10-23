@@ -1,5 +1,4 @@
-
-    from Junaid import Approval
+import Approval
     Approval()
 else:
     print('\n Checking Server Please Wait.....')
