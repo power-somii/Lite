@@ -1,3 +1,0 @@
-import Lite
-Lite.Lite()
-
